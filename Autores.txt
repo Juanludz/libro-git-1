@@ -10,6 +10,8 @@ Nombre: Luna Hazuki
 Correo: anapaulamendozadiaz2006@gmail.com
 Nombre: Miguel Ibarra
 Correo: ibarramiguel279@gmail.com
+Nombre: Manolo
+Correo: manolo123@gmail.com
 
 Nombre: MrCuervo
 Correo: MrCuervo00@gmail.com
